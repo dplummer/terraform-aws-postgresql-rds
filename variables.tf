@@ -125,3 +125,6 @@ variable "ok_actions" {
 variable "insufficient_data_actions" {
   type = "list"
 }
+
+variable "security_group_id" {
+}
